@@ -1,12 +1,12 @@
 # frontend-practice
 
-Working on recreating these websites to practice html and css from https://websitesetup.org/blog/best-designed-websites/
+Recreating design ideas from these websites to practice html and css. ---> https://websitesetup.org/blog/best-designed-websites/
 
 ## Website #1 https://visitevirtuelle.avoriaz.com/en/winter/village/overview
 
 ### Goals
 
-    -switch en to fr & winter to night
+    -create a switch to go from winter to summer
     -circle nav bar buttons with text animations
     -animated menu bar that pulls open a menu screen
     -360 degree interactive background with points of interest ***https://www.poppr.be/***
