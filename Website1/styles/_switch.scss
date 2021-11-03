@@ -23,6 +23,7 @@
     bottom: 0;
     background-color: rgba(255, 255, 255, 0.2);
     transition: .4s;
+    z-index: 5;
 }
 
 .slider:before {
@@ -32,7 +33,7 @@
     width: 26px;
     left: 4px;
     bottom: 4px;
-    background-color: lightgray;
+    background-color: rgba(255, 255, 255, 0.342);
     transition: .4s;
 }
 
