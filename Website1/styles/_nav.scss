@@ -1,0 +1,22 @@
+nav ul {
+    list-style-type: none;
+}
+nav ul li {
+    display: inline-block;
+    margin: 15px;
+    cursor: pointer;
+}
+
+nav ul li a {
+    background-color: rgba(128, 128, 128, 0.37);
+    padding: 15px 10px 15px 15px;
+    border-radius: 50%;
+    border: 1px solid white;
+    transition: .4s;
+}
+
+nav ul li a:hover {
+    border-color: orange;
+    padding: 20px 15px 20px 20px;
+    transition: .4s;
+}
